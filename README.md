@@ -1,4 +1,4 @@
-# Nail Disease Detection Model 🩺💅
+# Nail Scanning for Systemic Disease Detection 🩺
 
 This project is a **machine learning model for classifying nail conditions** that may be associated with **systemic diseases**, including cardiovascular and other internal health conditions.
 

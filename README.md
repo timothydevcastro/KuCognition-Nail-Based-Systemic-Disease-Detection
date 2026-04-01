@@ -31,16 +31,13 @@ The model classifies the following **8 nail-related conditions**:
 
 1. Clubbing  
 2. Beau’s Lines  
-3. Terry’s Nails  
+3. Acral Lentigious Melanoma
 4. Koilonychia (Spoon Nails)  
-5. Leukonychia  
-6. Onycholysis  
-7. Melanonychia  
+5. Bluish Nail  
+6. Onychogryphosis  
+7. Pitting  
 8. Normal / Healthy Nails  
 
-(Some of these conditions are commonly linked to systemic or cardiovascular diseases.)
-
----
 
 ## ⚙️ Model Details
 
